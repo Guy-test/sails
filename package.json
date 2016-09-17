@@ -84,7 +84,7 @@
   "devDependencies": {
     "root-require": "~0.3.1",
     "checksum": "~0.1.1",
-    "request": "*",
+    "request": "2.75.0",
     "istanbul": "*",
     "wrench": "~1.5.8",
     "benchmark": "~1.0.0",
