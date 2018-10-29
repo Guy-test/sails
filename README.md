@@ -6,6 +6,7 @@
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/balderdashy/sails?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![NPM version](https://badge.fury.io/js/sails.svg)](http://badge.fury.io/js/sails)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGuy-test%2Fsails.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FGuy-test%2Fsails?ref=badge_shield)
 
 
 Sails.js is a web framework that makes it easy to build custom, enterprise-grade Node.js apps. It is designed to resemble the MVC architecture from frameworks like Ruby on Rails, but with support for the more modern, data-oriented style of web app development. It's especially good for building realtime features like chat.
@@ -113,3 +114,6 @@ Sails was built and is actively and maintained by [Balderdash](http://balderdash
 > Sails is built around so many great open-source technologies that it would never have crossed our minds to keep it proprietary.  We owe huge gratitude and props to TJ Holowaychuk ([@visionmedia](https://github.com/visionmedia)) and Guillermo Rauch ([@rauchg](https://github.com/rauchg)) for the work they did, as well as the stewards of all the other open-source modules we use.  Sails could never have been developed without your tremendous contributions to the node community.
 
 ![image_squidhome@2x.png](http://sailsjs.org/images/bkgd_squiddy.png)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGuy-test%2Fsails.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FGuy-test%2Fsails?ref=badge_large)
